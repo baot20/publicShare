@@ -25,9 +25,6 @@
         <mxCell id="nHy3PQvZwh_i2Zd9X1no-21" value="Different Apps in different Lambda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nHy3PQvZwh_i2Zd9X1no-12">
           <mxGeometry x="-11.420000000000002" y="140" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nHy3PQvZwh_i2Zd9X1no-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=light-dark(#b93737, #ededed);verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAQwAAAAyCAYAAACpi+X6AAAAAXNSR0IArs4c6QAAAIRlWElmTU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAIdpAAQAAAABAAAAWgAAAAAAAACQAAAAAQAAAJAAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAQygAwAEAAAAAQAAADIAAAAA8HerzgAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAcFJREFUeAHt2TFKQ0EQBuC8Mo0gHiRXsPYCEew8jgcJ5AaWnsBCvIGVVZpUFj7/JS+QKglMhIV8C8M+2J1h+Jg8Am82swgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIHBKYDh14dj5OI43OX9MtP1zGIbXY/fPPVN3J8Xh3Ilxr3uBDPMisU0crudq4ymmbhA5VCdJflcCGej19Kb4yf47PX9Um1R3J8ihOknyuxLIQH9NL4mX7A/Tc9vuKo0mX90AcqhMkdzuBDLQb4m22j+M/XqvNppC6gaRQ3WS5HclkIG+T2wS+9VeHE/VJlND3SByqE6S/P8QqH4lmaepZeI2scpXku9LNJkfi7qB5HCJaVKDAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQuHqBP+dne+xkeepdAAAAAElFTkSuQmCC;" vertex="1" parent="1">
-          <mxGeometry x="60" y="458" width="268" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="nHy3PQvZwh_i2Zd9X1no-17" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="109" y="80" width="160" height="168" as="geometry" />
         </mxCell>
