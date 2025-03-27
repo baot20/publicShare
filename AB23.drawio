@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Page-1" id="5sU2mPLBaRcERNOd2FcL">
-    <mxGraphModel dx="2261" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
           <mxGeometry x="80" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="33sml2tnNeooiv59CqHN-17" value="Different  &#xa;Applications" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://shourai.io/wp-content/uploads/2020/07/kindpng_1272110.png;" vertex="1" parent="1">
-          <mxGeometry x="-12.439999999999998" y="500" width="282.44" height="220" as="geometry" />
+          <mxGeometry x="28.910000000000004" y="540" width="231.09" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
