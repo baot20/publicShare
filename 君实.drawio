@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VzwTH26_Pi-GNN5dby0--27" value="AWS WAF&lt;br&gt;Web Application Fire Wall" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.waf;" parent="VzwTH26_Pi-GNN5dby0--1" vertex="1">
-          <mxGeometry x="566.75" y="12.5" width="71" height="71" as="geometry" />
+          <mxGeometry x="568.25" y="12.5" width="71" height="71" as="geometry" />
         </mxCell>
         <mxCell id="VzwTH26_Pi-GNN5dby0--32" value="Public subnet -pub01&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" parent="VzwTH26_Pi-GNN5dby0--1" vertex="1">
           <mxGeometry x="200" y="211.5" width="220" height="158.5" as="geometry" />
@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VzwTH26_Pi-GNN5dby0--38" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-160" y="-200" width="830" height="290" as="geometry" />
+          <mxGeometry x="-150" y="-200" width="830" height="290" as="geometry" />
         </mxCell>
         <mxCell id="VzwTH26_Pi-GNN5dby0--41" value="Employee" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="VzwTH26_Pi-GNN5dby0--38" vertex="1">
           <mxGeometry x="150.75" y="170.00289156626508" width="48.915662650602414" height="48.915662650602414" as="geometry" />
